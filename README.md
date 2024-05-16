@@ -1,10 +1,10 @@
 ## T-rex-Runner
 
-Chrome Offline Easter Egg game, inspired from @wayou
+Chrome Offline Easter Egg game, inspired from [Wayou](https://github.com/wayou)
 
 see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 
-Play [here]()
+Play [here](https://krishealty.github.io/T-Rex-runner/)
 
 ![chrome offline game cast](assets/screenshot.gif)
 
@@ -29,3 +29,8 @@ Play [here]()
 <br>
 
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+
+- [Autapomorph](https://github.com/Autapomorph) made [Trex Vercel app](https://t-rex.vercel.app/)
+
+- [KarthikNedunchezhiyan](https://github.com/KarthikNedunchezhiyan) made [Dino](https://karthiknedunchezhiyan.com/google-chrome-dino/)
+- [harshalparmar](https://github.com/harshalparmar) made [Dino](https://harshalparmar.github.io/trex-game/)
